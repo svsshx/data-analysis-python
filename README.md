@@ -1,1 +1,1 @@
-# data-analysis-python
+# Анализ данных на Python. Лабораторные
